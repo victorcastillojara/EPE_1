@@ -1,0 +1,6 @@
+git  clone "pagina"
+git add .
+git commit -m "mensaje"
+git push origin master
+git status
+git merge
